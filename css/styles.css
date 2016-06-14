@@ -10,3 +10,17 @@
 .clickable:hover{
   text-decoration: underline;
 }
+
+/*#showing
+  {
+    display: none;
+  }
+
+.clickme {
+  cursor: pointer;
+  color: lightblue;
+}
+
+.clickme:hover {
+  text-decoration:underline;
+}*/

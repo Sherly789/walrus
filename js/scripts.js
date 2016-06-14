@@ -4,3 +4,10 @@ $(document).ready(function() {
     $("#initially-hidden").toggle();
   });
 });
+
+// $(document).ready(function() {
+//   $(".clickme").click(function(){
+//     $("#showing").toggle();
+//     $("#hidden").toggle();
+//   })
+// })
